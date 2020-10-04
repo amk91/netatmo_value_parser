@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+build
+dist
+
+config*.json
+value_parser.spec
